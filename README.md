@@ -1,2 +1,2 @@
-# testcalc
-To check initially copied code
+# Simple calculator
+basic calculator with HTML, CSS, JS
